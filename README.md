@@ -11,14 +11,14 @@ This repository includes implementations of the following machine learning algor
 
 * Linear Regression
 * Logistic Regression
-Decision Trees
-Random Forests
-Gradient Boosting
-Support Vector Machines (SVM)
-K-Nearest Neighbors (KNN)
-Naive Bayes
-K-Means Clustering
-Hierarchical Clustering
-Principal Component Analysis (PCA)
+* Decision Trees
+* Random Forests
+* Gradient Boosting
+* Support Vector Machines (SVM)
+* K-Nearest Neighbors (KNN)
+* Naive Bayes
+* K-Means Clustering
+* Hierarchical Clustering
+* Principal Component Analysis (PCA)
 
 Each algorithm is contained within its own Jupyter Notebook, providing a comprehensive overview of the algorithm's theory, implementation details, and example use cases. The notebooks are organized in a logical manner, making it easy to navigate and explore the algorithms of interest
