@@ -9,8 +9,8 @@ The main goal of this project is to offer a central repository that houses vario
 Algorithms
 This repository includes implementations of the following machine learning algorithms:
 
-Linear Regression
-Logistic Regression
+* Linear Regression
+* Logistic Regression
 Decision Trees
 Random Forests
 Gradient Boosting
